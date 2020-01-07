@@ -1,0 +1,3 @@
+# Anotações QSD 20
+
+- 06/01/2020: Começamos a turma com uma introduçnao a Gitlab, Git e SSH
